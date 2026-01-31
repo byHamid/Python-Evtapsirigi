@@ -1,0 +1,13 @@
+1. İstifadəçi inputdan saniyə daxil edir.
+O saniyənin neçə saat neçə dəq və neçə saniyə olduğunu tapın.
+Məsələn input -> 3665, output -> 1 saat 1 dəqiqə 5 saniyə 
+
+2. 3 rəqəmli ədəd daxil edilir. Ədədin rəqəmlərinin cəmini tapın.
+
+3. Istifadəçi məbləğ, faiz və il daxil edir. 
+Kredit hesablayırsız. Faiz hər ay üzərinə gəlir məsələn
+məbləğ 100 faiz 10 dursa. 1 ci ay 110 2 ci ay 121 3 cü ay 133 edir
+yekunda nə qədər ödəyəcək tapın.
+
+4. 3 rəqəmli ədəd daxil edilir. Onu tərsinə çevirən proqram yazın.
+379 yazılır ekrana 973 çıxmalıdır.

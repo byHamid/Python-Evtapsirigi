@@ -1,0 +1,6 @@
+req = int(input("3 Reqemli eded daxil et: "))
+req1 = str(int(req /100))
+req2 = str(int((req/10) %10))
+req3 = str(int(req%10))
+reqler = str(req3+req2+req1)
+print(reqler)
